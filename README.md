@@ -95,7 +95,8 @@ Exploratory Data Analysis (EDA for short) involved the exploring of the Data to 
 - Most popular subscription type
 - The duration by subscription type and cancellation rate
 
-'
+### Conclusion
+---
 Key Customer Trends. This helps to understand the customer needs which includes shifts in consumer behaviour, their preferences, and values; and adapt to the evolving market landscape. 
 It highlights a need to focus on improving customer retention, offering innovative pricing models, and providing seamless, engaging experiences to stay ahead 
 
